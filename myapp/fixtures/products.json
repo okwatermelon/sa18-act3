@@ -1,0 +1,29 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "Toy",
+        "price": "11.00",
+        "description": "A rubber toy"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Game",
+        "price": "59.99",
+        "description": "A video game"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "Drill",
+        "price": "79.99",
+        "description": "A power drill"
+      }
+    }
+  ]
